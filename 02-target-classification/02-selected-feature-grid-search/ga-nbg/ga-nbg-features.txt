@@ -1,0 +1,1 @@
+ICR BIC3 VE2sign_Dz(v) VE2sign_Dz(p) ATS5p ATSC6v GGI3 GGI4 SpMax7_Bh(p) P_VSA_e_3 P_VSA_ppp_hal SpDiam_EA(ed) SM11_EA Eig01_AEA(ri) H_RG TDB05e RDF150u Mor04u Mor12u Mor13u Mor19v Mor11p Kp Vu HATS7u HATSs R2s+ O-057 N-075 S-107 NaaN NsOH mintsC minaaN minsOH mindO CATS2D_00_DA CATS2D_02_DA F03[C-S] SAacc

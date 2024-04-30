@@ -1,0 +1,10 @@
+['NNRS' 'S3K' 'Psi_e_0' 'MWC10' 'VE3sign_Dz(Z)' 'SpAD_Dz(m)' 'HyWi_Dz(e)'
+ 'SM4_Dz(p)' 'VE3_B(m)' 'SM4_B(p)' 'VE2_B(p)' 'VE1sign_B(p)' 'ATS6m'
+ 'ATS6v' 'ATS6e' 'ATSC8i' 'MATS2v' 'SpMin4_Bh(p)' 'P_VSA_e_1' 'Eta_L_A'
+ 'Eta_D_beta' 'SM10_EA(ri)' 'SM12_AEA(bo)' 'SM12_AEA(dm)' 'Eig01_EA'
+ 'Eig01_EA(dm)' 'Eig02_AEA(ed)' 'Eig15_AEA(ed)' 'Eig01_AEA(dm)' 'SpMAD_G'
+ 'TDB01m' 'RDF020p' 'RDF105p' 'RDF045s' 'RDF065s' 'RDF105s' 'Mor17v'
+ 'Mor19e' 'Mor26e' 'Mor10p' 'Mor11p' 'Mor23i' 'L1i' 'L1s' 'HATS7v' 'NaasN'
+ 'NsCl' 'mintsC' 'minssO' 'MaxaasN' 'CATS2D_00_DA' 'CATS2D_02_DA'
+ 'CATS2D_04_LL' 'SHED_DD' 'F03[C-C]' 'F03[C-N]' 'F09[N-Cl]' 'CATS3D_00_AA'
+ 'CATS3D_03_LL']

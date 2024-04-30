@@ -1,0 +1,9 @@
+['nCIC' 'TRS' 'Rperim' 'Qindex' 'SNar' 'GNar' 'MeanDD' 'MPC05' 'MPC06'
+ 'MPC07' 'MPC08' 'MPC09' 'MPC10' 'piPC09' 'piPC10' 'X3sol' 'X5sol'
+ 'Vindex' 'IC3' 'IC4' 'SpPosA_A' 'SpMAD_A' 'J_D' 'VR1_D' 'STN_L'
+ 'SpPosA_L' 'SpMAD_H2' 'VR2_H2' 'WiA_Dt' 'AVS_Dt' 'Chi_Dt' 'SpPos_Dt'
+ 'SpPosA_Dt' 'SpMax_Dt' 'SpMaxA_Dt' 'SpAD_Dt' 'SpMAD_Dt' 'VR1_Dt'
+ 'J_Dz(Z)' 'VR2_Dz(Z)' 'J_Dz(m)' 'J_Dz(e)' 'VR2_Dz(p)' 'J_Dz(i)'
+ 'VR2_Dz(i)' 'VR2_B(m)' 'VR2_B(p)' 'VR2_B(i)' 'VR2_B(s)' 'Eta_epsi_3'
+ 'RDF065m' 'RDF065p' 'RDF015i' 'Mor08p' 'Mor10p' 'Vm' 'StsC' 'mintsC'
+ 'F03[C-C]' 'F04[C-C]' 'F05[C-C]' 'F06[C-C]' 'F07[C-C]' 'CATS3D_04_LL']
